@@ -1,2 +1,2 @@
 # prettytable-practice
-This repo is practice using prettytable.
+This repo is practice with prettytable.
